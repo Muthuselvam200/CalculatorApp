@@ -10,7 +10,7 @@
 
 ### :man_technologist: About the project :
 
-- I've build a basic JavaScript calculator.
+- I've built a basic JavaScript calculator.
 - I used only HTML, CSS and JavaScript in this project.
 
 ### :hammer_and_wrench: Languages and Tools :
