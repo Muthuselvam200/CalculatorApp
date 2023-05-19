@@ -4,9 +4,7 @@
 
 #### :arrow_down: Project Output
 
-<div>
-<img src="https://github.com/Muthuselvam200/CalculatorApp/assets/114568869/cbd6fa80-53ec-4736-aa0d-cfa08c91c7a8">
-</div>
+https://js-calci-online.netlify.app/
 
 ### :man_technologist: About the project :
 
